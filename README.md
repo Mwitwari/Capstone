@@ -44,3 +44,4 @@ Action	Key / Mouse
 Enter a number	Click a cell, then press 1–9
 Solve the puzzle	Press Enter (Return)
 Quit	Close the window
+
